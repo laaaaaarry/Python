@@ -32,7 +32,7 @@ def calculate_file_hash(file_path, algorithm='md5'):
         print(f"Error: {e}")
         return None
 
-# Example usage
+# Usage
 file_path = input("Enter the path to the file: ")
 chosen_algorithm = input("Choose hash algorithm (md5/sha256): ")
 
