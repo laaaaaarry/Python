@@ -49,10 +49,38 @@ No additional dependencies are required unless specified within the individual s
 
 ## Example Outputs:
 
-[Attach screenshots or examples of script outputs if applicable.]
+- **LogParser.py**
+
+![image](https://github.com/laaaaaarry/Python-scripts/assets/125237930/afd555c0-a3fd-4986-8c46-b2b50e97ce9d)
+
+- **PortScanner.py**
+
+![image](https://github.com/laaaaaarry/Python-scripts/assets/125237930/1eccf0b8-6e14-4708-9db9-f14515d38aa1)
+
+- **GeoIP.py**
+
+![image](https://github.com/laaaaaarry/Python-scripts/assets/125237930/7f79bd0e-e4e2-4adf-b7d4-0dc5d7124676)
+
+- **StatusCode.py**
+
+![image](https://github.com/laaaaaarry/Python-scripts/assets/125237930/0a61d675-78a7-47c7-815b-982973e8c18e)
 
 
-...
+- **SystemInfo.py**
+
+![image](https://github.com/laaaaaarry/Python-scripts/assets/125237930/714ad4c4-0719-4728-935e-f47d7f633abb)
+
+
+- **FileHasher.py**
+
+![image](https://github.com/laaaaaarry/Python-scripts/assets/125237930/e32f5905-ff4d-40e9-b285-c733d7d28a53)
+
+
+- **PasswordGenerater.py**
+
+![image](https://github.com/laaaaaarry/Python-scripts/assets/125237930/883d3b26-328c-4887-931e-0dbfa513246c)
+
+
 ## License:
 
 This project is licensed under the MIT License - see the <a href="https://github.com/laaaaaarry/Python-scripts/blob/main/LICENSE">LICENSE</a> file for details.
