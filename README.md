@@ -19,9 +19,9 @@ This repository serves as a showcase of Python scripts that demonstrate my progr
 
 ## Scripts:
 
-<a href="http://https://github.com/laaaaaarry/Python-scripts/blob/main/LogParser.py">LogParser.py</a> : This script analyzes the given log file, parsing its content and presenting the extracted data in a tabular format.
+<a href="https://github.com/laaaaaarry/Python-scripts/blob/main/LogParser.py">LogParser.py</a> : This script analyzes the given log file, parsing its content and presenting the extracted data in a tabular format.
 
-<a href="https://github.com/laaaaaarry/Python-scripts/blob/main/PortScanner.py)">PortScanner.py</a> : This script prompts the user for designated ports and an IP address, evaluates the provided ports, and reports the open ports.
+<a href="https://github.com/laaaaaarry/Python-scripts/blob/main/PortScanner.py">PortScanner.py</a> : This script prompts the user for designated ports and an IP address, evaluates the provided ports, and reports the open ports.
 
 <a href="https://github.com/laaaaaarry/Python-scripts/blob/main/MailClient.py">MailClient.py</a> : This script leverages the messaging capabilities of Python to seamlessly send emails as per user requirements.
 
