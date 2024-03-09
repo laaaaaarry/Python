@@ -55,5 +55,5 @@ No additional dependencies are required unless specified within the individual s
 ...
 ## License:
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the <a href="https://github.com/laaaaaarry/Python-scripts/blob/main/LICENSE">LICENSE</a> file for details.
 
