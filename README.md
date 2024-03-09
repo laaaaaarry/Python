@@ -1,1 +1,59 @@
-# Python
+# Python Scripts
+
+## Description: 
+
+Collection of Python scripts showcasing various skills and capabilities.
+
+## Table of Contents:
+
+- Overview
+- Scripts
+- Usage
+- Dependencies
+- Example Outputs
+- License
+
+## Overview:
+
+This repository serves as a showcase of Python scripts that demonstrate my programming skills and problem-solving abilities. Each script is designed to showcase different aspects of Python development, including File Parsing, Log Analyzing & Automation.
+
+## Scripts:
+
+LogParser.py : This script analyzes the given log file, parsing its content and presenting the extracted data in a tabular format.
+
+PortScanner.py : This script prompts the user for designated ports and an IP address, evaluates the provided ports, and reports the open ports.
+
+MailClient.py : This script leverages the messaging capabilities of Python to seamlessly send emails as per user requirements.
+
+GeoIP.py : This script provides comprehensive geolocation information for a specified IP address.
+
+StatusCode.py : This script efficiently verifies the functionality of the provided URLs by checking their accessibility.
+
+SystemInfo.py : This script delivers comprehensive system information for the host on which it is executed.
+
+FileHasher.py : This script generates MD5 or SHA-256 hash values for the specified file, ensuring data integrity and security.
+
+PasswordGenerator.py : This script dynamically generates random passwords of user-defined lengths, enhancing security and flexibility.
+
+## Usage:
+
+To explore each script, simply navigate to the respective script file in the scripts directory. 
+
+Instructions on usage and any required input will be provided in the comments within each script.
+
+## Dependencies:
+
+All scripts are written in Python 3.x. 
+
+No additional dependencies are required unless specified within the individual script files.
+
+## Example Outputs:
+
+[Attach screenshots or examples of script outputs if applicable.]
+
+
+...
+## License:
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
