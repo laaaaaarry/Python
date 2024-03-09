@@ -1,3 +1,4 @@
+Import the 'requests' module for sending HTTP requests and handling responses.
 import requests
 
 def get_ip_geolocation(ip_address):
